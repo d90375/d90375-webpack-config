@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="423f17c5-b464-4106-9fbf-0b761379089a" name="Default Changelist" comment="" />
+    <list default="true" id="423f17c5-b464-4106-9fbf-0b761379089a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webpack.config.base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589286234345</updated>
-      <workItem from="1589286235655" duration="709000" />
+      <workItem from="1589286235655" duration="2456000" />
     </task>
     <servers />
   </component>
@@ -46,6 +53,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="689" y="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589288086717">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="689" y="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1589288086717" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1589286622810">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
